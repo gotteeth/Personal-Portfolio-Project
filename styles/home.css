@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: #b67806a9;
+    color: #fff;
+    padding: 1rem 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 1rem;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  #welcome {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  #welcome img {
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgb(0, 0, 0);
+    max-width: 150px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #b67806a9;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
