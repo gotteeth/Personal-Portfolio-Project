@@ -1,4 +1,3 @@
-Sure, here's a sample `README.md` file for your Personal Portfolio Enhancement project:
 
 ### README.md
 
